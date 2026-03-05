@@ -1,6 +1,6 @@
 Pontos pra melhorar: 
 
-- Planejar o conteúdo do site usando o mockgflow
+- Planejar o conteúdo do site usando o mockflow
 - Código mais organizado 
 (header, main e footer -> criação dos parágrafos diretamente dentro deles, sem muitas divs)
 - Uso das estruturas ol e ul sempre que for fazer listagens
