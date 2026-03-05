@@ -1,0 +1,77 @@
+h1 - Título de nível 1
+(existem títulos até nível 6)
+
+hr - Linha horizontal
+
+p - Parágrafo
+
+br - Quebra de linha
+
+img - Imagem
+
+em - Itálico
+
+strong - Negrito
+
+address - Endereço
+
+link:favicon - Favicon
+
+mark - Marca texto
+
+small - Diminuir
+
+del - Riscar
+
+ins - Sublinhar
+
+sup - Subir
+
+sub - Descer
+
+code - Fonte monoespaçada
+
+pre - Manter identação
+
+q - Citação
+
+blockquote cite - Citação com referência
+
+abbr - Sigla
+
+ol - Listas ordenadas
+
+ul - Listas não ordenadas
+
+li - Elementos de lista
+
+dl - Listas de definições
+	dt - Nome
+	dd - Significado
+
+a - Link
+
+picture - Imagem dinâmica
+
+audio - Áudio
+
+video - Vídeo
+
+style - Estilo CSS
+
+span - Adicionar id/class à trechos
+
+header - Cabeçalho
+
+main - Conteúdo principal
+
+footer - Rodapé
+
+nav - Receber links/navegação 
+
+article - Receber artigos/notícias
+
+aside - Receber informações complementares
+
+
+

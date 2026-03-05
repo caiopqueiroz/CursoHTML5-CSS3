@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos Locais / Internos</title>
+    <!-- Estilo do site -->
+    <style>
+        body {
+            background-color: lightgoldenrodyellow;
+            font-family: Arial;
+            font-size: 12px;
+        }
+
+        h1 { /* O estilo é aplicado a todos os 'h1' do código */
+            color: maroon;
+            background-color: goldenrod;
+            text-decoration: underline;
+        }
+
+        h2 {
+            color: darkred;
+        }
+    </style> <!-- Tudo escrito dentro da tag 'style' será considera como CSS -->
+    <!-- Técnica muito mais vantajosa que 'css-inline' -->
+    <!-- Mas tem desvantagens: 
+    - 1°) Estilo ocupa grande parte do código
+    - 2°) Criação e manutenção individual de cada página (muito trabalhoso) -->
+</head>
+<!-- Conteúdo do site -->
+<body>
+    <h1>
+        Página 1 - CSS-Local
+    </h1>
+    <h1>
+        Capítulo 1
+    </h1>
+    <h2>
+        Capítulo 1.1
+    </h2>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa rem fugit reiciendis delectus, id quia dolorem nesciunt recusandae quae quam magni tempora consequuntur similique inventore nulla nobis voluptas ea a.
+    </p>
+    <h2>
+        Capítulo 1.2
+    </h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa quis veniam laudantium assumenda atque sapiente quae rem ipsum aperiam. Numquam odit, ea laboriosam ut quam quisquam repudiandae corporis consequuntur architecto?
+    </p>
+    <h1>
+        Capítulo 2
+    </h1>
+    <h2>
+        Capítulo 2.1
+    </h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga soluta asperiores maiores ratione cum consectetur eius enim natus optio! Dolores eveniet tempore autem, dolore quibusdam recusandae vel architecto ut itaque?
+    </p>
+    <p style="text-align: right">
+        <a href="../ex015 - css externo/index.html">Clique aqui para ir até a página 2</a>
+    </p>
+    <!-- Em um mesmo arquivo é possível utilizar os 3 tipos de CSS 
+    Ordem de prioridade (qual sobressai qual): 
+    1°) CSS-inline (pior - não use)
+    2°) CSS-Local (uso pra 1 única página)
+    3°) CSS-Externo (uso para todo caso)
+    -->
+</body>
+</html>

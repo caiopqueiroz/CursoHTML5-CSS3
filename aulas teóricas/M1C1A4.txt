@@ -1,0 +1,249 @@
+Aula 4 – Hospedagem + História da Internet
+🌐 Parte 1 – Hospedagem de Sites
+🏢 Hostnet
+
+Hostnet
+
+Uma das maiores empresas de hospedagem do Brasil.
+
+Patrocinadora do Curso em Vídeo.
+
+💡 Pontos importantes:
+
+Existe hospedagem gratuita → mas com limitações.
+
+Hospedagem profissional → paga.
+
+Pode hospedar qualquer tipo de site.
+
+Pode auxiliar no desenvolvimento.
+
+🌍 Parte 2 – História da Internet
+🧨 Contexto Histórico
+
+A internet surgiu durante a:
+
+Guerra Fria
+
+Cenário:
+
+Conflito ideológico: EUA 🇺🇸 x URSS 🇷🇺
+
+Ambos fortalecidos após 1949.
+
+Medo constante de ataque.
+
+🛰 Sputnik
+
+Sputnik 1
+
+Primeiro satélite artificial.
+
+Lançado pela URSS.
+
+Muito limitado, mas mostrou avanço tecnológico.
+
+👉 A URSS parecia mais avançada tecnologicamente.
+
+🧠 Criação da DARPA
+
+Resposta dos EUA:
+
+DARPA
+
+Agência criada para desenvolver tecnologias estratégicas.
+
+Objetivo: melhorar comunicação militar.
+
+💾 ARPANET – O Início da Rede
+
+ARPANET
+
+Criada como um grande backup de dados.
+
+Conectar bases militares.
+
+Problema:
+
+Os computadores eram diferentes:
+
+SDS
+
+IBM
+
+DEC PDP-10
+
+Eles "falavam linguagens diferentes".
+
+🔌 NCP – Primeiro Protocolo
+
+Network Control Protocol
+
+Características:
+
+Linguagem única.
+
+Simples.
+
+Ineficiente.
+
+❌ Problema grave:
+Se um computador quisesse se comunicar com outro, a rede inteira precisava parar.
+
+Quando a rede cresceu → tornou-se impraticável.
+
+🌐 TCP e IP
+TCP
+
+Transmission Control Protocol
+
+Resolve problema de envio de dados.
+
+IP
+
+Internet Protocol
+
+Identifica as máquinas na rede.
+
+União:
+
+TCP + IP = TCP/IP
+
+👉 Base da internet até hoje.
+
+🌎 Expansão da Rede
+
+ARPANET cresceu e deixou de ser apenas militar.
+
+Foi dividida em:
+
+MILNET
+
+NSFNET
+
+Redes comerciais
+
+Essas redes precisavam se comunicar → nasceu a:
+
+🌍 Internet
+
+(inter-networking = conexão entre redes)
+
+Definição:
+
+Internet = conexão entre várias redes
+
+🌊 Como a Internet Funciona Fisicamente?
+
+Cabos submarinos (principal meio)
+
+Data centers
+
+Satélites
+
+Balões de transmissão
+
+📌 A internet não depende principalmente de satélites.
+Ela funciona majoritariamente por cabos submarinos.
+
+📦 Como os Dados São Transferidos?
+
+Exemplo: Você quer uma imagem do YouTube.
+
+YouTube → servidor
+
+Você → cliente
+
+O que acontece?
+
+A imagem:
+
+É dividida em pacotes.
+
+Enviada fora de ordem.
+
+Pode seguir rotas diferentes.
+
+Chega em tempos diferentes.
+
+É reconstruída no seu dispositivo.
+
+👉 Por isso às vezes imagens carregam aos poucos.
+
+🖥 Antes da Web Gráfica
+
+A internet nem sempre foi bonita.
+
+Gopher
+
+Gopher
+
+Sem mouse.
+
+Sem imagens.
+
+Interface textual.
+
+Visual simples.
+
+🌐 Surgimento da Web
+HTTP
+
+Criado por:
+
+Tim Berners-Lee
+
+Protocolo:
+
+HTTP
+
+HTML
+
+HTML
+
+HyperText Markup Language
+
+Linguagem de marcação para hipertexto.
+
+WWW
+
+World Wide Web
+
+Rede Mundial de Computadores.
+
+Parte da internet especializada em HTTP.
+
+Sub-rede da internet.
+
+Primeiro Navegador
+
+Mosaic
+
+Tornou a navegação gráfica possível.
+
+🧠 Conceito Final da Aula
+O que é a World Wide Web?
+
+É:
+
+Parte da internet.
+
+Especializada no protocolo HTTP.
+
+Responsável por páginas web.
+
+Como produzimos hipertexto?
+
+Usando HTML.
+
+Colocando em um servidor.
+
+O cliente solicita via HTTP.
+
+O navegador interpreta e exibe.
+
+👉 Graças ao HTML, a internet deixou de ser apenas texto e se tornou visual, interativa e poderosa.
+
+
+
+

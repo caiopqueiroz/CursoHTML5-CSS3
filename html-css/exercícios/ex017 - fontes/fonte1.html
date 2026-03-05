@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif; /* O código vai usar a primeira que for encontrada no dispositivo, e nunca todas as fontes juntas 
+            É posível escolher somente o tipo da fonte, exemplos: 'sans-serif', 'serif', 'monospace', e não uma fonte específica */
+            font-size: 1em;
+            /*
+            Medidas absolutas:
+            cm, mm, in, px, pt, pc
+
+            Medidas relativas:
+            em (relativa à tamanho atual da fonte)
+            ex (relativa à altura x da fonte)
+            rem 
+            vw (relativa à largura da tela)
+            vh (relativa à altura da tela)
+            %
+
+            Recomendadas pela W3C: px e em, somente!
+            16px geralmente equivale à 1em (em = melhor opção)
+            */
+            text-align: justify;
+            /*
+            Weight = peso (lighter, normal, bold, bolder)
+            Width = largura
+            Height = altura 
+            */
+        }
+
+        h1, h2 /* É possível juntar dois elementos num mesmo seletor */ {
+            font-weight: bolder;
+            font-style: italic;
+            /* Shorthand font (propriedade que une muitas funções em uma - gastando menor quantidade de linhas): 
+            font-style font-weight font-size font-family
+            */
+            font: italic bolder 2em Arial
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        Trabalhando com Fontes
+    </h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ullam maiores quae vitae enim a cupiditate? Doloribus, deleniti cupiditate? Libero suscipit atque vel ab necessitatibus veritatis cumque iure quibusdam ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, totam aspernatur. Eaque et iure veniam aut, incidunt, libero soluta nulla facere ullam architecto quos culpa. Odio minus nam nihil quisquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic magnam natus aperiam voluptas asperiores fugit expedita illo, nobis earum assumenda quas ratione. Rerum sint sunt voluptate reiciendis sapiente omnis libero.
+    </p>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum quidem minima numquam nemo minus nesciunt temporibus rerum itaque harum sunt dolore reiciendis quas reprehenderit dolorum optio quos magni, aperiam dolor?
+    </p>
+    <h2>
+        Subtítulo do Exercício
+    </h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, optio soluta, quibusdam, quasi voluptates explicabo cupiditate aut dolorum facilis velit modi omnis dolorem repellendus nam quod vero architecto provident perferendis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, amet, rem similique repellendus asperiores ullam blanditiis officiis laborum et ex nam modi non architecto commodi inventore eaque accusantium. Nulla, sed.
+    </p>
+</body>
+</html>

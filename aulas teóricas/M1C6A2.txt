@@ -1,0 +1,138 @@
+Aula 2 – Quais são os formatos de imagem adequados para web?
+
+Quando falamos de desenvolvimento web, escolher o formato correto de imagem é essencial para:
+
+🚀 Performance (velocidade do site)
+
+📦 Tamanho do arquivo
+
+🎨 Qualidade visual
+
+🥇 Os formatos mais importantes
+
+Para web, os dois formatos mais essenciais são:
+
+JPG (ou JPEG)
+
+PNG
+
+Outros formatos:
+
+GIF (usado em casos específicos)
+
+SVG (usado em situações bem específicas)
+
+Mas 90% dos casos do dia a dia envolvem JPG e PNG.
+
+📷 JPG (JPEG)
+✅ Principal característica: Compactação
+
+O JPG consegue compactar a imagem, reduzindo muito o tamanho do arquivo.
+
+Ele faz isso agrupando cores parecidas, reduzindo informações repetidas.
+
+📌 Resultado:
+
+Arquivo muito menor
+
+Carregamento mais rápido
+
+Ideal para web
+
+🎯 Quando usar JPG?
+
+Fotos grandes
+
+Imagens com muitas cores
+
+Quando o fundo não precisa ser transparente
+
+Quando a compactação é prioridade
+
+Exemplo:
+
+Banner de site
+
+Foto de produto
+
+Imagem de fundo
+
+⚠ Ponto negativo
+
+Não permite transparência
+
+Perde qualidade a cada nova compactação
+
+Com muito zoom, pode ficar pixelado e com “artefatos”
+
+🖼 PNG
+
+O formato PNG foi criado pelo World Wide Web Consortium (W3C) como alternativa ao GIF.
+
+✅ Principal vantagem: Transparência
+
+O PNG permite fundo transparente.
+
+Isso é extremamente útil para:
+
+Logos
+
+Ícones
+
+Elementos sobrepostos
+
+Interfaces
+
+📌 Outras características
+
+Melhor preservação de qualidade
+
+Sofre menos distorção com zoom comparado ao JPG
+
+Arquivo geralmente maior que JPG
+
+🎯 Quando usar PNG?
+
+Quando precisar de transparência
+
+Quando qualidade for mais importante que tamanho
+
+Para elementos gráficos (não fotos grandes)
+
+🎞 GIF (uso limitado)
+
+Permite animação simples
+
+Pouca variedade de cores
+
+Hoje é menos usado para imagens estáticas
+
+🧩 SVG (uso específico)
+
+Formato vetorial
+
+Não perde qualidade com zoom
+
+Ideal para:
+
+Logos
+
+Ícones
+
+Ilustrações simples
+
+Não é ideal para fotos.
+
+🧠 Resumo Comparativo
+Formato		Melhor para		Transparência		Tamanho
+JPG		Fotos grandes		❌			Menor
+PNG		Logos, ícones		✅			Maior
+GIF		Animações simples	✅			Médio
+SVG		Vetores e ícones	✅			Muito leve
+
+📌 Regra prática para web
+
+✔ Foto → JPG
+✔ Logo com fundo transparente → PNG
+✔ Ícone vetorial → SVG
+

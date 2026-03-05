@@ -1,0 +1,97 @@
+Git e GitHub (explicação básica)
+Problema inicial
+
+Até agora os arquivos estão salvos apenas no computador.
+
+Se você criou um site:
+
+ele só funciona nesse computador
+
+Problemas possíveis:
+
+perder o arquivo
+
+querer voltar para versões antigas
+
+mostrar para alguém em outro computador
+
+Repositório
+
+Repositório = local onde arquivos são guardados.
+
+Existem dois tipos:
+
+Repositório Local
+
+Arquivos guardados no seu computador.
+
+Repositório Remoto
+
+Arquivos guardados na internet (servidor).
+
+Git
+
+Git = gerenciador de versões de código.
+
+Ele:
+
+guarda todas as versões do seu projeto
+
+permite voltar para versões anteriores
+
+Exemplo:
+Você trabalhou 2 semanas em um site e não gostou do resultado.
+Com Git você pode voltar para uma versão anterior.
+
+Mas o Git funciona no seu computador.
+
+Problema:
+Se o computador quebrar → perde tudo.
+
+GitHub
+
+GitHub = serviço de hospedagem de repositórios na nuvem.
+
+Ele funciona como um servidor online para projetos Git.
+
+Funções:
+
+backup dos projetos
+
+armazenar código na nuvem
+
+compartilhar projetos
+
+trabalho em equipe
+
+Relação entre Git e GitHub
+
+Eles se complementam.
+
+Git
+
+controla versões
+
+funciona no computador
+
+cria repositório local
+
+GitHub
+
+guarda o projeto na internet
+
+cria repositório remoto
+
+Fluxo comum:
+
+criar projeto no Git (local)
+
+enviar para o GitHub (remoto)
+
+Assim:
+
+seus arquivos ficam seguros
+
+outras pessoas podem acessar
+
+é possível trabalhar em equipe 

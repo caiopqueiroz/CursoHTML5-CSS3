@@ -1,0 +1,240 @@
+Aula 2 – Anatomia dos Tipos
+O que é “tipo”?
+
+Tipo = cada uma das letras.
+
+Cada letra é construída com medidas e proporções específicas.
+
+Para entender tipografia de verdade, precisamos entender a anatomia das letras.
+
+Exemplo base: Times New Roman
+
+Vamos usar como exemplo a fonte Times New Roman.
+
+Quando uma fonte é criada, ela é baseada em métricas.
+
+Ou seja:
+O designer precisa definir quanto espaço cada letra vai ocupar.
+
+Isso influencia:
+
+Legibilidade
+
+Harmonia
+
+Espaçamento
+
+Organização visual
+
+Qual a melhor fonte para cada situação?
+
+Depende de:
+
+Onde será usada (papel ou tela)
+
+Tamanho do texto
+
+Contexto
+
+Público
+
+Emoção desejada
+
+Para decidir corretamente, precisamos entender a estrutura da fonte.
+
+Letra “x” – ponto de partida
+
+A letra “x” minúscula é usada como referência na criação das fontes.
+
+Altura-x (métrica muito importante)
+
+Altura-x = altura do “x” minúsculo.
+
+Essa altura define o tamanho padrão das letras minúsculas.
+
+Altura das maiúsculas
+
+As letras maiúsculas têm sua própria altura.
+
+Normalmente são maiores que a altura-x.
+
+Ascendentes e Descendentes
+
+Algumas letras “vazam” além da altura-x.
+
+Exemplos:
+
+Letra “b” → sobe acima da altura-x (ascendente)
+
+Letra “q” → desce abaixo da linha base (descendente)
+
+Altura do Corpo
+
+É a distância máxima entre o ponto mais alto e o ponto mais baixo da fonte.
+
+Inclui:
+
+Ascendentes
+
+Descendentes
+
+Serifa
+
+Serifa é o “pezinho” da letra.
+
+Nem toda fonte possui serifa.
+
+Ela ajuda a criar uma linha imaginária que facilita a leitura.
+
+Muito importante para leitura em papel.
+
+Nosso cérebro não lê letra por letra.
+Ele reconhece o formato da palavra inteira.
+
+A serifa ajuda a manter essa continuidade visual.
+
+Elementos das Letras
+
+Cada letra é composta por partes específicas:
+
+Hastes → traços principais verticais
+
+Filetes → unem hastes ou arcos
+
+Arcos → partes curvas
+
+Esporão → pequena projeção em algumas letras
+
+Vértice → ponto de encontro de duas linhas
+
+Terminal → ponta que não se conecta a outro elemento
+
+Braço → sai da haste e vai para cima
+
+Perna → sai da haste e vai para baixo
+
+Pé → base da letra (onde ficam as serifas)
+
+Espinha → parte central curva (ex: letra “S”)
+
+Barriga → parte arredondada (ex: “b”, “p”)
+
+Olho → espaço interno fechado (ex: “o”, “e”)
+
+Orelha → pequeno detalhe em algumas letras (ex: “g”)
+
+Cauda → extensão inferior (ex: “q”)
+
+Glifo e Fonte
+
+Glifo (ou caractere) = uma letra individual.
+
+Cada letra é um glifo.
+
+Conjunto de glifos = fonte.
+
+Famílias Tipográficas
+
+Exemplo: Open Sans
+
+É uma fonte sem serifa (simples e moderna).
+
+Mas ela pode ter variações chamadas de família tipográfica:
+
+Light
+
+Normal (Regular)
+
+Seminegrito
+
+Negrito
+
+Extranegrito
+
+Nem toda fonte possui muitas variações.
+
+5 Categorias de Fontes (Muito Importante)
+
+As fontes são classificadas em 5 grandes grupos:
+
+1) Serifadas
+
+Possuem serifa.
+
+Ideais para:
+
+Leitura em papel
+
+Livros
+
+Textos impressos
+
+2) Sans-Serif (Sem Serifa)
+
+Não possuem serifa.
+
+Recomendação:
+Para textos longos em sites, prefira fontes sem serifa.
+
+Combinação ideal:
+Fundo branco + letra preta.
+
+3) Monoespaçadas
+
+Todas as letras ocupam o mesmo espaço.
+
+Ideal para:
+
+Códigos
+
+Programação
+
+Ambientes técnicos
+
+4) Handwriting / Script
+
+Simulam caligrafia à mão.
+
+Ideais para:
+
+Convites
+
+Marcas artesanais
+
+Elementos decorativos
+
+Não são boas para textos longos.
+
+5) Display
+
+Não seguem regras tradicionais.
+
+São estilizadas, chamativas e decorativas.
+
+Usadas para:
+
+Títulos
+
+Logos
+
+Destaques
+
+Não recomendadas para textos grandes.
+
+Conclusão
+
+Escolher fonte não é estética apenas.
+
+É técnica.
+
+Entender anatomia dos tipos ajuda você a:
+
+Escolher melhor
+
+Criar hierarquia
+
+Melhorar legibilidade
+
+Transmitir a emoção correta
+
+Tipografia é estrutura + emoção + funcionalidade.

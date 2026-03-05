@@ -1,0 +1,237 @@
+Aula 2 – Front-end / Back-end / Full Stack
+🌐 O esquema padrão da internet
+
+Modelo simplificado:
+
+Clientes → DNS → Servidor → Clientes
+
+O cliente (usuário) faz uma solicitação.
+
+O DNS descobre o IP.
+
+O servidor responde.
+
+O cliente recebe os dados.
+
+🧱 Site estático – funcionamento simples
+
+A função básica do servidor é:
+
+Entregar dados.
+
+Forma mais simples:
+
+O servidor envia arquivos:
+
+HTML
+
+CSS
+
+JavaScript
+
+Isso é um site estático.
+
+📌 Característica:
+Todos que acessam recebem exatamente os mesmos arquivos.
+
+💻 Tecnologias Client-Side
+
+HTML, CSS e JavaScript são executados:
+
+👉 Do lado do cliente.
+
+Ou seja:
+
+O servidor apenas envia os arquivos.
+
+O navegador do usuário executa tudo.
+
+Essas tecnologias são chamadas de:
+
+Client-side
+
+🎨 Front-end
+👨‍💻 Front-end Developer
+
+Também chamado de:
+
+Client-side Developer
+
+É o profissional que trabalha com:
+
+HTML
+
+CSS
+
+JavaScript
+
+Ele é responsável por:
+
+Estrutura
+
+Visual
+
+Interação
+
+Experiência do usuário
+
+📌 Importante:
+Desenvolvedor front-end ≠ Designer
+
+🎨 Designer idealiza o visual.
+
+💻 Desenvolvedor front-end transforma a ideia em código.
+
+O foco do front-end é o usuário.
+
+🖥 Back-end
+
+Mas nem tudo pode ser estático.
+
+Alguns sistemas precisam:
+
+Controlar estoque
+
+Fazer login
+
+Aplicar promoções
+
+Salvar dados
+
+Trabalhar com banco de dados
+
+Isso exige processamento no servidor.
+
+👨‍💻 Back-end Developer
+
+É o desenvolvedor especializado no lado do servidor.
+
+Ele trabalha com:
+
+Lógica
+
+Banco de dados
+
+Segurança
+
+Regras de negócio
+
+O foco do back-end é:
+👉 A interação do código com o servidor e o banco de dados.
+
+🛠 Linguagens de servidor
+
+Algumas tecnologias usadas no back-end:
+
+PHP
+
+JavaScript (Node.js)
+
+C#
+
+Python
+
+Ruby
+
+Java
+
+Exemplo clássico: PHP
+
+🛍 Exemplo prático – Loja online
+
+Imagine que um cliente quer comprar uma camiseta.
+
+❌ Se fosse um site estático:
+
+O servidor só enviaria os arquivos.
+Todos veriam as mesmas informações.
+Não haveria controle de:
+
+Estoque
+
+Promoções
+
+Usuários logados
+
+Isso gera problemas.
+
+✅ Com back-end + banco de dados
+
+O processo muda:
+
+O cliente faz uma solicitação.
+
+O servidor (ex: PHP) recebe.
+
+O servidor consulta o banco de dados.
+
+O banco retorna as informações (estoque, preço etc.).
+
+O servidor monta um HTML personalizado.
+
+O navegador recebe e exibe.
+
+Agora o site é dinâmico.
+
+🧠 Resumindo a diferença
+Front-end
+
+Funciona no cliente
+
+Foco no usuário
+
+Interface e experiência
+
+Back-end
+
+Funciona no servidor
+
+Foco em dados e regras
+
+Banco de dados
+
+🚀 Posso ser os dois?
+
+Sim.
+
+Se você domina:
+
+Front-end
+
+Back-end
+
+Você é um:
+
+💼 Desenvolvedor Full Stack
+
+Mas atenção:
+
+✔ É possível
+❌ Não é rápido
+❌ Não acontece em poucas semanas
+
+Desconfie de promessas milagrosas.
+
+É uma área que:
+
+Exige dedicação
+
+Exige prática
+
+Exige tempo
+
+Mas é uma profissão:
+
+Muito valorizada
+
+Muito bem remunerada
+
+Com alta demanda no mercado
+
+📌 Resumo Final
+
+✔ HTML/CSS/JS → Client-side → Front-end
+✔ PHP/Python/Java/etc → Server-side → Back-end
+✔ Site estático entrega sempre o mesmo conteúdo
+✔ Site dinâmico usa servidor + banco de dados
+✔ Full Stack domina os dois lados

@@ -1,0 +1,189 @@
+Aula 2 – Mais sobre o Funcionamento da Internet
+🌍 Como outras pessoas vão ver o meu site?
+
+Se você criou um site, como faz para que o mundo inteiro consiga acessá-lo?
+
+Vamos entender isso com um esquema envolvendo:
+
+👤 Vários clientes (usuários)
+
+📖 DNS
+
+🖥 Servidor
+
+🌐 Internet
+
+📌 Situação 1 – Arquivos guardados em um servidor
+
+Essa é a forma correta de publicar um site.
+
+O que acontece?
+
+A pessoa digita o endereço do site.
+
+O DNS procura o IP correspondente.
+
+O DNS retorna o IP do servidor.
+
+O navegador acessa o servidor.
+
+O servidor envia os arquivos (HTML, CSS, imagens etc.).
+
+✔ Funciona para qualquer pessoa no mundo.
+
+📌 Situação 2 – Arquivos guardados no seu PC
+
+Você criou seu site e deixou os arquivos HTML e CSS apenas no seu computador.
+
+Problema:
+
+Você tem acesso total.
+
+Mas outras pessoas não conseguem acessar.
+
+O DNS não consegue “enxergar” os arquivos.
+
+Eles estão presos na sua máquina.
+
+Pergunta importante:
+
+👉 Que endereço alguém deveria digitar?
+
+Não existe um endereço público válido se o site não estiver em um servidor acessível pela internet.
+
+📌 Situação 3 – Arquivos guardados no PC de outra pessoa
+
+Mesma lógica:
+
+O dono do computador acessa normalmente.
+
+Outras pessoas não conseguem.
+
+Não há ligação pública via DNS.
+
+🧠 Resumo Importante
+
+Só funciona se estiver em um servidor acessível na internet.
+
+A URL é a ponte entre o usuário e o servidor.
+
+🌐 O que você precisa para publicar um site?
+1️⃣ Domínio
+
+É o nome que identifica seu site.
+
+Exemplo:
+
+google.com
+
+seusite.com
+
+O domínio é:
+
+Único
+
+Registrado
+
+Público
+
+2️⃣ Hospedagem
+
+É o local onde seus arquivos ficam armazenados.
+
+Pense como um hotel:
+
+O domínio é o endereço.
+
+A hospedagem é o prédio onde seu site mora.
+
+Os arquivos são os móveis dentro do quarto.
+
+Normalmente:
+
+É pago mensalmente.
+
+Existem planos diferentes (mais ou menos espaço, memória, velocidade).
+
+O curso pode ensinar a usar domínio gratuito, mas ele terá limitações.
+
+🔎 O que é TLD?
+
+TLD significa:
+
+Top Level Domain
+
+É a parte final do domínio.
+
+Existem dois tipos principais:
+🌎 gTLD (Genérico)
+
+.com
+
+.gov
+
+.edu
+
+🌍 ccTLD (Country Code)
+
+.br (Brasil)
+
+.us (Estados Unidos)
+
+.jp (Japão)
+
+Exemplo:
+
+.com.br → mistura gTLD + ccTLD
+
+🔗 O que é URL?
+
+URL significa:
+
+Uniform Resource Locator
+
+É o endereço completo que aponta para um único lugar na internet.
+
+🧩 Partes de uma URL
+
+Exemplo:
+
+https://www.meusite.com.br/pagina1
+
+Vamos dividir:
+
+1️⃣ Protocolo
+https://
+
+É o primeiro elemento.
+Define como a comunicação será feita.
+
+2️⃣ Subdomínio
+www
+
+É um subdomínio.
+Pode existir ou não.
+
+3️⃣ Domínio
+meusite
+
+Nome principal.
+
+4️⃣ TLD
+.com.br
+
+Parte final do domínio.
+
+5️⃣ Caminho
+/pagina1
+
+Tudo que vem depois da barra.
+Indica um arquivo ou uma rota específica dentro do servidor.
+
+📌 Conclusão Final
+
+✔ Para outras pessoas verem seu site, ele precisa estar em um servidor
+✔ Você precisa de domínio + hospedagem
+✔ DNS conecta nome ao IP
+✔ URL é o endereço completo
+✔ Cada parte da URL tem uma função específica
+ 

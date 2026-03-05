@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <h1>
+        Inserindo Vídeos Hospedados Localmente
+    </h1>
+    <p>
+        Este vídeo está hospedado no meu próprio servidor.
+    </p>
+    <video width="560" poster="imagens/capa.jpg" controls loop>
+        <!-- Parâmetro 'width' para definir a largura, 'poster' para adicionar uma capa e 'controls' para o usuário controlar o play, volume, etc -->
+        <source src="midias/meu-video-0.mp4" type="video/mp4">
+        <source src="midias/meu-video-1.mp4" type="video/mp4">
+        <source src="midias/meu-video-2.webm" type="video/webm">
+        <p>
+            Seu navegador não tem compatibilidade com reprodução de vídeos. <a href="midias/meu-video-0.mp4">Clique para baixar o vídeo MP4</a>
+        </p>
+        <!-- A ordem tem total influência, ele tenta carregar primeiro o arquivo do topo da tag -->
+        <!-- Vídeos hospedados localmente podem consumir muita banda - ou seja - custam muito caro para manter -->
+    </video>
+    <h1>
+        Inserindo vídeos do YouTube
+    </h1>
+    <p>
+        Esse vídeo está hospedado no YouTube
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oD01mohhZfc?si=GhTqr-hmi5_xF4cR&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <!-- Exibir vídeos direto do YouTube usando a função 'incorporar' dentro da ferramenta 'compartilhar' do próprio vídeo -->
+</body>
+</html>

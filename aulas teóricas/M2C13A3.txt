@@ -1,0 +1,277 @@
+Aula 3 – Harmonia de Cores
+
+Aprendemos a representar cores (RGB, hexadecimal etc.), mas nem sempre da melhor maneira.
+
+Harmonia de cores é um tema da disciplina de Design, mas é extremamente importante também em um curso de CSS, pois envolve aplicação prática.
+
+Não basta saber colocar cor.
+É preciso saber combinar.
+
+Outro conceito importante junto com cores:
+
+Fontes (Tipografia)
+
+Perguntas importantes:
+
+Qual a melhor fonte para cada situação?
+
+Quando usar fonte formal?
+
+Quando usar fonte moderna?
+
+Como importar uma nova fonte para o VS Code?
+
+Exemplo básico de importação no CSS:
+
+@font-face {
+    font-family: MinhaFonte;
+    src: url("MinhaFonte.ttf");
+}
+
+Ou usando Google Fonts com @import ou <link> no HTML.
+
+Anote tudo.
+Você vai precisar consolidar esses conceitos.
+
+Por que achamos algo bonito?
+
+Duas armas poderosas:
+
+Simetria → comodidade visual
+
+Cor → emoção
+
+Harmonia é a chave.
+E o instrumento principal para isso é:
+
+Círculo Cromático
+
+Também chamado de círculo das cores.
+
+É baseado na representação RGB.
+Trabalhamos com 12 cores principais para harmonização.
+
+O foco do estudo do círculo cromático é:
+Criar combinações harmônicas.
+
+Cores Primárias
+
+Amarelo
+
+Vermelho
+
+Azul
+
+Formam um triângulo equilátero dentro do círculo.
+
+São chamadas de harmonia “grosseira”.
+A partir delas surgem as demais cores.
+
+Cores Secundárias
+
+Laranja
+
+Verde
+
+Violeta
+
+Formam outro triângulo, de ponta cabeça.
+
+Também geram uma combinação forte e contrastante.
+
+Cores Terciárias
+
+São as cores entre uma primária e uma secundária.
+
+Exemplos:
+
+Amarelo-esverdeado
+
+Amarelo-alaranjado
+
+Vermelho-alaranjado
+
+Vermelho-arroxeado
+
+Azul-arroxeado
+
+Azul-esverdeado
+
+Regra de nomenclatura:
+Primeiro o nome da primária, depois o da secundária.
+
+Essas cores são chamadas, de forma mais ampla, de tons mais suaves ou pastéis.
+
+Total: 12 cores principais no círculo.
+
+Temperatura das cores
+
+Lado direito do círculo → cores quentes
+Lado esquerdo do círculo → cores frias
+
+Quentes:
+
+Vermelho
+
+Laranja
+
+Amarelo
+
+Frios:
+
+Azul
+
+Verde
+
+Violeta
+
+Paleta de Cores para Sites
+
+Todo site precisa de cuidado na escolha da paleta.
+
+Regras importantes:
+
+Toda paleta tem uma cor principal.
+
+Ideal trabalhar com 3, 4 ou 5 cores.
+
+Branco e preto não entram nessa contagem.
+
+A cor principal normalmente é a da logo.
+
+Exemplo:
+Se a cor principal for marrom (elegância), precisamos escolher cores que a complementem.
+
+Tipos de Harmonia no Círculo Cromático
+1) Cores Complementares
+
+São as cores opostas no círculo.
+Trace uma linha reta até o outro lado.
+
+Exemplos:
+
+Violeta e amarelo
+
+Vermelho e verde
+
+Azul e laranja
+
+Geram alto contraste.
+Nem sempre combinam bem, mas chamam muita atenção.
+
+2) Cores Análogas (Irmãs)
+
+São cores vizinhas no círculo.
+
+Exemplo:
+
+Azul e violeta
+
+Têm pouco contraste.
+Geram harmonia suave.
+
+3) Cores Análogas + 1 Complementar
+
+Exemplo:
+
+Azul, violeta e amarelo
+
+Vermelho, laranja e azul
+
+Criam equilíbrio entre harmonia e contraste.
+
+4) Cores Análogas Relacionadas
+
+Escolha duas vizinhas.
+Pule uma.
+Adicione a próxima.
+
+Exemplo:
+
+Amarelo, laranja e verde
+
+5) Cores Intercaladas
+
+Adicione uma, pule outra, adicione a próxima.
+
+Exemplo:
+
+Amarelo, laranja e vermelho
+
+Paleta mais forte, mais “dura”.
+
+6) Cores Triádicas
+
+Adicione uma.
+Pule três.
+Adicione outra.
+
+Exemplo clássico:
+
+Amarelo
+
+Vermelho
+
+Azul
+
+São as cores primárias.
+Forte contraste e equilíbrio.
+
+7) Cores em Quadrado
+
+Adicione uma.
+Pule duas.
+Adicione outra.
+
+Formam quatro cores equilibradas e intensas.
+
+8) Cores Tetrádicas
+
+Escolha duas cores.
+Adicione suas complementares.
+
+Gera uma paleta rica e vibrante.
+
+9) Monocromia
+
+Escolha apenas uma cor.
+Altere apenas:
+
+Saturação
+
+Brilho
+
+Não altere o tom.
+
+Muito usado em:
+
+Fundos
+
+Degradês
+
+Sites minimalistas
+
+Conclusão
+
+Harmonia de cores não é sorte.
+É estudo.
+
+Sites precisam de:
+
+Boa paleta
+
+Cor principal definida
+
+Equilíbrio
+
+Consistência
+
+Design bem aplicado gera:
+
+Mais permanência no site
+
+Mais confiança
+
+Mais conversão
+
+Cores + Simetria = Experiência agradável

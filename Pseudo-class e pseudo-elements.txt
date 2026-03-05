@@ -1,0 +1,12 @@
+:hover - Sob o mouse
+
+:visited - Link já visitado
+
+:active - Sob aperto do mouse
+
+:root - Declarar variáveis
+
+::before - Escrever antes 
+
+::after - Escrever depois
+

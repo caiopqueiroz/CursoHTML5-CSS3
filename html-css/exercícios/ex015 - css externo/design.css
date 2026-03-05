@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* Regra para compatibilidade com acentuação */
+
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+h1 { /* O estilo é aplicado a todos os 'h1' do código */
+    color: maroon;
+    background-color: goldenrod;
+}
+
+h2 {
+    color: darkred;
+}
+
+p#ir {
+    text-align: right;
+}

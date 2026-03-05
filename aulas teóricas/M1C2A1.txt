@@ -1,0 +1,167 @@
+Aula 1 – Como a Internet Funciona?
+🎥 Referência
+
+O canal Vox tem um vídeo muito didático explicando como a internet funciona.
+
+1️⃣ Como os dados são representados no computador?
+
+Antes de entender a internet, precisamos entender como o computador funciona.
+
+💡 O computador é inteligente?
+
+Não tanto quanto parece.
+
+O computador é um “burro muito rápido”.
+Quem dá inteligência a ele é o programador.
+
+Ele apenas executa instruções extremamente simples, mas muito rápido.
+
+🔢 Tudo funciona com 0 e 1
+
+O computador trabalha com sinais elétricos:
+
+Com sinal = 1
+
+Sem sinal = 0
+
+Esses valores são chamados de:
+
+✔ Dígitos binários (bits)
+
+Um bit pode ser apenas:
+
+0 ou
+
+1
+
+Mas com apenas um bit não dá para representar muita coisa.
+
+🧩 Byte: o primeiro agrupamento útil
+
+Os bits são agrupados em conjuntos de 8 bits, formando:
+
+✔ 1 byte
+
+Exemplo:
+
+01000001
+
+Esse conjunto representa a letra A.
+
+🌍 UTF-8
+
+O padrão UTF-8 é um código multibyte que utiliza de 1 a 4 bytes para representar:
+
+Letras
+
+Símbolos
+
+Emojis
+
+Caracteres de diferentes idiomas
+
+📊 Múltiplos do Byte
+
+A base utilizada é 1024:
+
+1024 bytes = 1 KB
+
+1024 KB = 1 MB
+
+1024 MB = 1 GB
+
+1024 GB = 1 TB
+
+Depois vêm: PB, EB, ZB, YB
+
+👉 1 TB significa trilhões de 0 e 1 armazenados.
+
+⚠ MB ≠ Mb
+
+MB (MegaByte) → armazenamento
+
+Mb (Megabit) → transmissão
+
+✔ HD e pen drive usam Bytes
+✔ Velocidade da internet usa bits
+
+2️⃣ Como nos conectamos à internet?
+👤 Você é o cliente
+
+Porque está usando um serviço.
+
+🖥 Servidor
+
+É o computador que fornece o serviço.
+
+📡 O papel do modem
+
+Problema:
+
+O computador entende apenas ondas quadradas (binárias),
+mas outros sistemas de comunicação não.
+
+O modem faz:
+
+Modulação
+
+Demodulação
+
+Ele transforma sinais digitais em sinais compatíveis com redes externas e vice-versa.
+
+(Modem = MOdulador + DEModulador)
+
+☁ O que é a "nuvem"?
+
+Ela não é algo mágico no céu.
+
+A nuvem são servidores físicos reais, armazenando dados em algum lugar do mundo.
+
+🌐 IP – O número da internet
+
+Toda máquina conectada à internet possui um:
+
+✔ Endereço IP
+
+É como o CPF do dispositivo na rede.
+
+📖 DNS – A agenda da internet
+
+Mas como encontramos os sites pelo nome?
+
+A internet tem uma espécie de agenda telefônica chamada:
+
+✔ DNS (Domain Name System)
+
+Ele liga:
+
+Nome → Número (IP)
+
+Exemplo:
+
+Se você digita instagram.com, o DNS descobre em qual servidor ele está hospedado e direciona você até lá.
+
+🖼 Como uma imagem chega até você?
+
+Quando você abre uma imagem:
+
+Ela é dividida em vários pequenos pedaços (pacotes).
+
+Cada pedaço pode seguir por rotas diferentes.
+
+A internet é uma rede com caminhos finitos.
+
+Se houver congestionamento, o sistema de roteamento desvia por outro caminho.
+
+No final, tudo é reorganizado no seu computador.
+
+📌 Resumo Final
+
+✔ Computadores entendem apenas 0 e 1
+✔ Bits formam bytes
+✔ Bytes armazenam informações
+✔ Internet transmite dados em bits
+✔ Modem converte sinais
+✔ IP identifica máquinas
+✔ DNS traduz nomes em números
+✔ Arquivos viajam em pedaços por diferentes rotas 

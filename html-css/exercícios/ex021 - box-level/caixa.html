@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de Caixa</title>
+    <style>
+        h1 /* box-level */ {
+            background-color:skyblue;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.8em;
+            text-align: center;
+            width: 450px;
+
+            padding: 10px;
+            
+            border: 7px solid black; /* width style color */
+            
+            outline: 5px dotted salmon;
+            
+            margin: auto;
+            /* padding, border, outline e margin são simplificações (shorthands) 
+            
+            De maneira separada, são:
+            padding-top / padding-right / padding-bottom / padding-left
+
+            border-width / border-style / border-color
+
+            outline-width / outline-style / outline-color
+
+            margin-top / margin-right / margin-bottom / margin-left
+            */
+        }
+
+        a /* inline-level */ { 
+            border: 5px solid red;
+            /* Também pode ser escrito como:
+            border-width: 5px;
+            border-style: solid;
+            border-color: red;
+            */
+            display: inline-block; /* Funciona inline, mas com algumas características de box-level, como height e width */
+        }
+    </style>
+</head>
+<body>
+    <!-- 
+    box-level -> h1 / p
+    inline-level -> a 
+    -->
+    <h1>Exemplo de caixa box-level</h1> 
+    <p>
+        Parágrafos também são exemplos de box-level, mas os <a href="#">links são exemplos de caixas inline-level</a>
+    </p>
+</body>
+</html>

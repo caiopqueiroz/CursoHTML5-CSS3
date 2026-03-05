@@ -1,0 +1,143 @@
+Aula 1 – Introdução e Organização do Curso
+
+📚 Estrutura do Curso (Módulos)
+🟢 Módulo 1 – Fundamentos
+
+Primeiros passos com:
+
+Textos
+
+Títulos
+
+Ligações (links)
+
+Imagens
+
+Vídeos
+
+👉 Foco: Aprender a estrutura básica do HTML.
+
+🎨 Módulo 2 – Estilização
+
+Design
+
+Tipografia
+
+Cores
+
+Elementos CSS
+
+Responsividade
+
+👉 Foco: Deixar o site visualmente bonito usando CSS.
+
+🚀 Módulo 3 – Colocando no Ar
+
+Protótipo no ar
+
+Versionamento de software
+
+Hospedagem de sites estáticos
+
+👉 Foco: Publicar seu projeto e entender controle de versões.
+
+📱 Módulo 4 – Aprofundamento
+
+Formulários
+
+Media Queries
+
+Mobile First
+
+👉 Foco: Melhorar estrutura e adaptação para dispositivos móveis.
+
+🧩 Módulo 5 – Tecnologias Modernas
+
+Flexbox
+
+Grid Layout
+
+Projeto Final
+
+👉 Foco: Layouts avançados e consolidação do aprendizado.
+
+🛠 O Que Vou Precisar
+💻 Equipamentos
+
+Computador (preferência: tela grande)
+
+Celular (para testar o site e usar como segunda tela)
+
+🌐 Recursos
+
+Acesso à internet (vídeos + PDF)
+
+Material de apoio no GitHub
+
+Repositórios mencionados:
+
+github.com/gustavoguanabara
+
+gustavoguanabara.github.io
+
+🧠 Mentalidade de Aprendizado
+🎯 Foco
+
+Não colocar o vídeo para rodar enquanto faz outra coisa.
+
+Aprendizado exige atenção total.
+
+✍️ Prática
+
+Fazer todos os exercícios.
+
+Programar é treino.
+
+Só melhora quem pratica.
+
+📒 Anotações
+
+Usar caderno (sim!)
+
+O conhecimento entra por múltiplos estímulos:
+
+Assistir
+
+Ler
+
+Anotar
+
+Praticar
+
+Anotar tudo que achar importante para revisar depois.
+
+📖 Método
+
+Assistir aos vídeos.
+
+Ler o material de apoio.
+
+Estudar em grupo (troca de experiências ajuda muito).
+
+⚠️ Avisos Importantes
+
+❌ Não assistir como se fosse Netflix.
+
+❌ Não maratonar sem compromisso.
+
+✅ Quando for hora de praticar, pratique bastante.
+
+❌ Não fazer com pressa.
+
+✅ Não existe “atrasado” — cada um tem seu ritmo.
+
+✅ Criar rotina de estudos.
+
+Exemplo de rotina:
+
+14h da tarde → Hora de aprender HTML
+
+Organização gera constância.
+Constância gera evolução.
+
+✍️ Anotações de: Caio Augusto P. Queiroz

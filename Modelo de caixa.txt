@@ -1,0 +1,13 @@
+Modelo de Caixa
+
+Anatomia da caixa:
+height - Altura
+width - Largura
+border - Borda 
+padding - Preenchimento
+margin - Margem 
+outline - Contorno
+
+Tipos de caixa:
+box-level (ex: div) - Quebra a linha pra adicionar o elemento
+inline-level (ex: span) - Adiciona o elemento na mesma linha

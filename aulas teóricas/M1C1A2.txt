@@ -1,0 +1,111 @@
+Aula 2 – Esse Curso é Para Mim?
+🤔 Reflexão Inicial
+❓ Será que esse curso é pra mim?
+
+Será que eu já sei tudo que vou aprender aqui?
+
+💊 Pílula SIM ou Pílula NÃO
+
+Referência ao filme The Matrix.
+
+👉 Escolher a “pílula SIM” significa decidir aprender de verdade.
+👉 Escolher a “pílula NÃO” é continuar na zona de conforto.
+
+✅ É PRA MIM SE...
+
+Tenho interesse em aprender a criar sites.
+
+Quero ir do zero até colocar um site hospedado no ar.
+
+Quero criar um portfólio próprio.
+
+Quero aprender além do básico.
+
+🧠 Forma de Aprender
+
+❌ Não decorar.
+
+✅ Aprender entendendo.
+
+São muitos comandos, mas ensinados de forma leve.
+
+Curso cheio de exercícios para fixação.
+
+⚠️ Não fazer os exercícios = MEGA ERRADO
+
+Programação não é teoria.
+É prática.
+
+📚 Conteúdos Avançados que Estarão no Curso
+
+Flexbox
+
+Grid Layout
+
+Media Queries
+
+Prototipação
+
+Teoria das Cores
+
+Tipografia
+
+👉 Mesmo que você já tenha visto HTML no curso de JS, aqui haverá aprofundamento.
+
+🚀 Mentalidade Correta
+
+Não aprender só a modificar código.
+
+Aprender a criar do zero.
+
+Sem pressa.
+
+Não é maratona.
+
+É processo.
+
+Objetivo:
+
+Quero colocar sites online na internet.
+
+❌ NÃO É PRA MIM SE...
+
+Já sei tudo sobre HTML5 e CSS3.
+
+Quero apenas códigos prontos e templates.
+
+Estou com pressa para aprender em poucas semanas.
+
+Quero só uma lista de comandos.
+
+Não consigo esperar o lançamento das aulas.
+
+Prefiro apenas consultar documentação oficial.
+
+⏳ Tipo de Aprendizado
+
+Este curso é para:
+
+Médio prazo
+
+Longo prazo
+
+Construção sólida de base
+
+🎓 Sobre o Canal
+
+O Curso em Vídeo é movido por paixão por ensinar.
+
+Não ensina apenas o “como fazer”, mas também:
+
+História
+
+Contexto
+
+De onde veio o que você está aprendendo
+
+📌 Resumo da Aula
+
+Se você quer aprender de verdade, praticar e construir base sólida para criar seus próprios sites…
+
+👉 Esse curso é pra você.

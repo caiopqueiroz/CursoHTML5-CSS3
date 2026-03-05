@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação de Textos</title>
+    <style>
+        mark {
+            background-color: lime;
+        }
+    /*
+    Assim a alteração na tag 'mark' se aplica a todas as vezes que ela aparecer no código
+    */
+    </style>
+</head>
+<body>
+    <h1>
+        Principais Formatações
+    </h1>
+    <h2>
+        Negrito / Destaque
+    </h2>
+    <p>
+        Nessa frase temos um <b>termo em negrito</b> usando a tag &lt;b&gt; (não semântica). <!-- Tag b não é semântica -->
+    </p>
+    <p>
+        Já nessa, temos um <strong>termo em destaque</strong> usando a tag &lt;strong&gt; (semântica). <!-- Tag strong é semântica / O termo referido por ela deve ser 'forte', importante -->
+    </p>
+    <h2>
+        Itálico / Ênfase
+    </h2>
+    <p>
+        Agora um <i>termo em itálico</i> usando a tag &lt;i&gt; (não semântica).
+    </p>
+    <p>
+        Nessa frase temos um <em>termo em ênfase</em> usando a tag &lt;em&gt; (semântica).
+    </p>
+    <!-- Usar somente <strong> para negrito 
+    e somente <em> para itálico -->
+    <h2>
+        Texto Marcado
+    </h2>
+    <p>
+        Podemos criar também <mark style="background-color: lime">um texto marcado</mark> usando a tag &lt;mark&gt;.
+    </p> <!-- Para alterar algo pontual, é possível aplicar CSS diretamente dentro de uma tag específica / Exemplo: trocar a cor de um marcador -->
+    <p>
+        E no outro parágrafo, temos <mark>outro texto marcado</mark> no final.
+    </p>
+    <h2>
+        Texto Grande e Pequeno
+    </h2>
+    <p>
+        Estamos criando um <big>texto grande</big> e um <small>texto pequeno</small> nesse parágrafo.
+    </p> <!-- Aumentar uma letra não é semântica, mas diminuir pode ser -->
+    <h2>
+        Texto Deletado
+    </h2>
+    <p>
+        Podemos marcar <del>um texto como excluído</del> para indicar que ele deve ser lido, mas não considerado (semântica).
+    </p>
+    <h2>
+        Texto Inserido
+    </h2>
+    <p>
+        Podemos marcar <ins>um texto como inserido</ins> para dar uma ênfase e indicar que ele foi adicionado depois (semântica).
+    </p>
+    <p>
+        Existem também o <u>sublinhado</u> com a tag &lt;u&gt; (não semântica).
+    </p>
+    <h2>
+        Texto Sobrescrito
+    </h2>
+    <p>
+        Para inserir coisa do tipo x<sup><em>20</em></sup> + 3
+    </p> <!-- Tag 'sup' sobe o texto -->
+    <h2>
+        Texto Subscrito
+    </h2>
+    <p>
+        Para inserir coisas do tipo H<sub><em>2</em></sub>O
+    </p> <!-- Tag 'sub' desce o texto -->
+</body>
+</html>

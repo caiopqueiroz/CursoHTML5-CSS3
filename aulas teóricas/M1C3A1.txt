@@ -1,0 +1,215 @@
+Aula 1 – Como funcionam HTML e CSS?
+🗣 Uma observação importante
+
+Tecnicamente:
+
+A HTML (linguagem feminina)
+
+As CSS (pois significa “folhas de estilo”, plural)
+
+E cuidado com a frase:
+
+❌ “Eu programo em HTML e CSS.”
+✔ “Eu desenvolvo em HTML e CSS.”
+
+HTML e CSS são linguagens, mas não são linguagens de programação, porque não possuem:
+
+Variáveis
+
+Estruturas de decisão
+
+Objetos
+
+Lógica de programação
+
+📄 HTML – HyperText Markup Language
+
+Significa:
+
+HyperText Markup Language
+(Linguagem de Marcação de Hipertexto)
+
+📌 O que é Hipertexto?
+
+É um texto que, quando clicado, leva você para outro lugar (como um link).
+
+🔎 O que é HTML?
+
+É uma linguagem de marcação.
+
+Ela serve para estruturar o conteúdo de um site:
+
+Textos
+
+Títulos
+
+Parágrafos
+
+Imagens
+
+Vídeos
+
+Listas
+
+Links
+
+Exemplo prático:
+
+Se você lê uma matéria no site do GloboEsporte.com, o conteúdo textual está estruturado em HTML.
+
+🏷 Tags em HTML
+
+As tags usam colchetes angulares:
+
+<>
+Exemplos:
+
+Título:
+
+<h1>Insira seu título</h1>
+
+Parágrafo:
+
+<p>Insira seu parágrafo</p>
+
+Imagem:
+
+<img src="imagem.jpg" alt="Descrição da imagem">
+📌 Importante:
+
+Antes do sinal de igual (=) → parâmetro (atributo)
+Depois do sinal de igual → valor
+
+Exemplo:
+
+src é o atributo
+
+"imagem.jpg" é o valor
+
+🎨 CSS – Cascading Style Sheets
+
+Significa:
+
+Cascading Style Sheets
+(Folhas de Estilo em Cascata)
+
+📌 Por que “em cascata”?
+
+Porque uma regra pode sobrescrever outra, criando uma hierarquia de estilos.
+
+🔎 O que o CSS faz?
+
+Enquanto o HTML cuida do conteúdo, o CSS cuida do visual:
+
+Cor
+
+Fonte
+
+Tamanho
+
+Espaçamento
+
+Posição
+
+Layout
+
+Tudo que é aparência em um site é controlado pelo CSS.
+
+✏ Exemplo de CSS
+
+Dentro de uma tag <style> no HTML:
+
+h1 {
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
+📌 Regras importantes:
+
+Cada linha termina com ;
+
+Cada declaração é um par:
+
+Propriedade : Valor;
+
+Antes do : → propriedade
+Depois do : → valor
+
+🌐 HTML + CSS + JavaScript
+
+Para criar sites completos, usamos três tecnologias principais:
+
+🧱 HTML
+
+Estrutura
+
+🎨 CSS
+
+Estilo
+
+⚙ JavaScript (JS)
+
+Interação e programação
+
+O JavaScript é uma linguagem de programação que adiciona:
+
+Botões interativos
+
+Animações
+
+Validações de formulário
+
+Sistemas dinâmicos
+
+Essas três tecnologias formam o ambiente web.
+
+🧩 Estrutura básica de um documento HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Nome do site</title>
+    </head>
+    <body>
+        <h1>Olá, Mundo!</h1>
+    </body>
+</html>
+📌 Explicação das partes
+
+<!DOCTYPE html>
+Informa que o documento é HTML5.
+
+<html lang="pt-br">
+Define o idioma do site.
+
+<head>
+Contém informações sobre o site (metadados).
+
+<meta charset="UTF-8">
+Permite acentuação, cedilha e caracteres especiais.
+
+<title>
+Nome exibido na aba do navegador.
+
+<body>
+Corpo do site — tudo que aparece para o usuário.
+
+🔄 Como HTML e CSS funcionam na prática?
+
+Os arquivos ficam armazenados em um servidor.
+
+Quando você acessa um site, o servidor envia uma cópia dos arquivos.
+
+O seu navegador interpreta o HTML.
+
+O navegador aplica o CSS.
+
+O site é exibido na sua tela.
+
+📌 Resumo Final
+
+✔ HTML estrutura o conteúdo
+✔ CSS estiliza o conteúdo
+✔ JavaScript adiciona interatividade
+✔ HTML e CSS não são linguagens de programação
+✔ O navegador interpreta tudo e mostra para você

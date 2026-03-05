@@ -1,0 +1,33 @@
+AULA 1 - CORES (DESENVOLVIMENTO WEB)
+CORES SÃO DE SUMA IMPORTÂNCIA. Tudo que você compra, em algum nível, é influenciado
+pelas cores. Estudos mostram que a escolha por um produto está diretamente relacionada à cor da
+embalagem. O mesmo vale para sites: a harmonia visual define se ele será acessado ou não.
+Instintivamente, nós preferimos o que é bonito e harmônico.
+
+IMPORTÂNCIA DAS CORES EM SITES
+• Um site harmônico sempre ganha de um site visualmente desagradável.
+• A decisão do usuário não é totalmente consciente.
+• Cores influenciam percepção de confiança, qualidade e profissionalismo.
+• Cores são ferramentas estratégicas no design.
+
+AZUL
+Ligação com competência, sabedoria, calma, profissionalismo e inteligência. É a cor mais aceita do
+mundo (aprox. 46% de aprovação). Possui a menor taxa de rejeição (cerca de 1%). Muito usada
+por grandes empresas de tecnologia.
+
+VERMELHO
+Relacionada a amor, energia, emoção, comida e raiva. Chama atenção rapidamente. Evitar em
+contextos de natureza e produtos de luxo.
+
+PRETO E BRANCO
+Preto transmite elegância, luxo e sofisticação. Fundo preto com letra branca pode causar cansaço
+visual. Branco transmite simplicidade, limpeza e organização.
+
+RESUMO DAS PRINCIPAIS CORES E USO
+• VERDE: natureza, saúde, equilíbrio. Ideal para sustentabilidade e bem-estar.
+• AMARELO: energia, atenção, juventude. Usar com moderação.
+• LARANJA: entusiasmo, criatividade, dinamismo. Bom para chamadas de ação.
+• ROXO: criatividade, mistério, luxo (dependendo do tom).
+• CINZA: neutralidade, tecnologia, equilíbrio. Muito usado em interfaces modernas.
+
+

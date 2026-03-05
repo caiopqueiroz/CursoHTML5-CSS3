@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>
+        Imagem Dinâmica
+    </h1>
+    <p>
+        Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.   
+    </p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexível">
+    </picture> <!-- Tag 'picture' serve para receber imagens -->
+    <!-- Tag 'source:type:media' é uma maneira de trocar a a imagem de acordo com o espaço de exibição disponível / Utilizar os parâmetros media="(max-width:)" e type="image/png" -->
+    <!-- <picture>
+        <source media="(min-width: 1050px)" srcset="imagens/foto-g.png" type="image/png">
+        <source media="(min-width: 750px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-p.png" alt="">
+    </picture> 
+    Fazendo o caminho contrário -->
+    <h1>
+        Reproduzindo Áudios
+    </h1>
+    <p>
+        Vamos aprender a reproduzir áudios em HTML5
+    </p>
+    <audio src="midias/john-comes.mp3" controls></audio> <!-- Uma maneira de reproduzir áudios através da tag 'audio' usando o parâmetro 'controls' -->
+    <!-- Compatível com os formatos: MP3 / WAV / OGG -->
+    <audio preload="metadata" controls loop> 
+        <!-- Tag 'audio' tentará executar os arquivos na ordem em que foram escritos. Ela só passará para o próximo na lista se o anterior apresentar erro -->
+        <!-- Parâmetro preload="metadata" serve para carregar, na abertura do site, somente algumas informações sobre o áudio / Parâmetro 'loop' é para que o áudio nunca termine -->
+        <source src="midias/guanacast-33.mp3" type="audio/mpeg">
+        <source src="midias/john-comes.ogg" type="audio/ogg">
+        <source src="midias/john-comes.wav" type="audio/wav"> <!-- Evitar WAV porque são muito pesados -->
+        <p>
+            Infelizmente seu navegador não consegue reproduzir áudio. <a href="midias/john-comes.mp3">Clique aqui para baixar o arquivo MP3</a>
+        </p>
+    </audio>
+</body>
+</html>

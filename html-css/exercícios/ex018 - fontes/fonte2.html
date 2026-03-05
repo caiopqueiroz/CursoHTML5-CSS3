@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes Externas</title>
+    <style>
+        @font-face {
+            font-family: 'love story';
+            src: url('fontes/love story.ttf') format(truetype);
+            font-weight: normal;
+            font-style: normal;
+            /* Tipos de 'format' (depende do tipo de arquivo da fonte)
+            - opentype (otf)
+            - truetype (ttf)
+            - embeedded-opentype
+            - truetype-aat (Appple Advanced Typography)
+            - svg
+            */
+        }
+
+        @font-face {
+            font-family: 'kissing season';
+            src: url('fontes/Kissing Season.ttf') format(truetype);
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        body {
+            font-family: 'kissing season', Helvetica, sans-serif; 
+            font-size: 1.5em;
+        }
+
+        h1, h2 {
+            font-family: 'love story', Times, serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        Júlia, Meu Amor!
+    </h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. A perferendis, assumenda corrupti, quas officia facilis voluptatibus reprehenderit ipsa sequi est architecto laudantium dolorum, amet quos ipsam blanditiis nesciunt omnis sit.
+    </p>
+    <h2>
+        Eu Te Amo!
+    </h2>
+    <p>
+        O conteúdo desse parágrafo de teste serve só pra dizer que te amo muito mesmo.
+    </p>
+</body>
+</html>

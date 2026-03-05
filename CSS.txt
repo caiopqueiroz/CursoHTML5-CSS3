@@ -1,0 +1,75 @@
+text-align - Alinhar texto
+
+color - Cor da fonte
+
+font-family - Tipo de fonte
+
+background-color - Cor de fundo
+
+font-size - Tamanho da fonte
+
+text-decoration - Sublinhar texto, etc
+
+* {} - Configurações globais
+
+background-image: linear-gradient(30deg) - Degradê
+
+backgroudn-attachment: fixed - Fixar degradê 
+
+width - Largura
+
+padding - Borda
+
+margin - Alinhamento
+
+border-radius - Arredondamento
+
+box-shadow - Sombra
+
+text-shadow - Sombra no texto
+
+font-weight - Peso da fonte
+
+font-style - Itálico
+
+font - Múltiplas características da fonte 
+
+@font-face - Importar fontes
+
+text-indent - Indentação de parágrafo
+
+id (usa #)
+
+class (usa .)
+
+pseudo-class (usa :)
+
+pseudo-element (usa ::)
+
+children (usa >)
+
+border - Borda 
+
+display - Organização dos elementos
+
+tag a > tag b - Especificação
+
+content - Escrever
+
+box-shadow - Sombras
+
+border-radius - Arredondar bordas
+
+max(ou min)-width - Largura máxima (ou mínima) 
+
+transition-duration - Tempo de atraso para transição
+
+text-indent - Folga na primeira linha do texto
+
+line-height - Espaço entre linhas
+
+list-style-position - Posição dos indicadores nas listas  
+
+columns - Colunas da lista
+
+list-style-type - Indicadores nas listas
