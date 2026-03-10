@@ -1,0 +1,128 @@
+Configuração de Computador Temporário para Estudo (Git e GitHub)
+
+Quando você estiver utilizando um computador temporário (como em laboratório, escola ou computador de outra pessoa), é necessário ter alguns programas instalados para trabalhar com desenvolvimento web.
+
+Programas necessários
+
+Navegador de internet
+
+Visual Studio Code
+
+Git
+
+GitHub Desktop
+
+Essas ferramentas permitem:
+
+editar código
+
+gerenciar versões
+
+enviar projetos para a internet
+
+Processo de Configuração no GitHub Desktop
+1. Fazer login
+
+Abrir o GitHub Desktop.
+
+Caminho:
+
+File → Options → Sign in
+
+Depois:
+
+colocar login
+
+colocar senha do GitHub
+
+Passo importante antes de clonar um repositório
+
+Antes de baixar um projeto, é necessário configurar a identidade do Git.
+
+Caminho:
+
+File → Options → Git
+
+Preencher:
+
+User Name
+
+Email
+
+Depois clicar em:
+
+Save
+
+Isso é importante porque o Git registra quem fez cada alteração no projeto.
+
+Clonar o repositório
+
+Depois de configurar o usuário:
+
+fazer o clone do repositório
+
+Isso baixa os arquivos do repositório remoto (GitHub) para o computador local.
+
+Processo para limpar o computador depois do uso
+
+Como o computador é temporário, é importante remover tudo depois.
+
+1. Remover o repositório
+
+Caminho:
+
+Repository → Remove
+
+Depois enviar para a lixeira.
+
+2. Sair da conta
+
+Caminho:
+
+File → Options → Sign out
+
+Isso remove o login do GitHub Desktop.
+
+3. Apagar dados do Git
+
+Caminho:
+
+File → Options → Git
+
+Apagar:
+
+User Name
+
+Email
+
+Depois clicar em:
+
+Save
+
+4. Esvaziar a lixeira
+
+Por segurança, esvaziar a lixeira do computador para remover definitivamente os arquivos.
+
+Resumo
+
+Para usar um computador temporário:
+
+Fazer login no GitHub Desktop
+
+Configurar usuário e email no Git
+
+Clonar o repositório
+
+Trabalhar normalmente
+
+Antes de sair:
+
+Remover repositório
+
+Fazer logout
+
+Apagar usuário e email do Git
+
+Esvaziar lixeira
+
+Assim você mantém seus dados seguros e o computador limpo para o próximo usuário.
