@@ -78,6 +78,10 @@ background-image: url('') - Imagem de fundo
 
 background-size - Tamanho da imagem de fundo
 
+background-size: cover - Adapta a imagem de fundo
+
 background-repeat - Forma de repetição da imagem de fundo 
 
 background-position - Ponto de início da imagem de fundo
+
+background - Shorthand para imagem de fundo 
