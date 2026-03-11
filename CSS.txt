@@ -84,4 +84,11 @@ background-repeat - Forma de repetição da imagem de fundo
 
 background-position - Ponto de início da imagem de fundo
 
+background-attachment - Fixar a imagem de fundo
+
 background - Shorthand para imagem de fundo 
+
+position: absolute
+left: 50%
+top: 50%
+transform: translate(-50%, -50%) - Centralizar um conteúdo dentro de uma caixa

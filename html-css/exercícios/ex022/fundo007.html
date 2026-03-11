@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical</title>
+    <style>
+        #container { /* Para a centralização, o container deve ter a posição definida como relativa */
+            height: 90vh;
+            background-color: purple;
+            background-image: url('imagens/target001.png');
+            background-size: 100% 100%;
+            padding: 10px;
+            position: relative;
+        }
+
+        #conteudo { /* Para a centralização. o conteúdo deve ter a posição definida como absoluta */
+            height: 20vh;
+            background-image: url('imagens/target001.png');
+            background-size: 100% 100%;
+            background-color: yellow;
+            left: 50%;
+            top: 50%;
+            background-position: center center;
+            margin: auto;
+            width: 40vh;
+            position: absolute; /* Definir o parâmetro 'position' de uma caixa como 'absolute' permite que os parâmetros 'left' e 'top' dela sejam alterados */
+            transform: translate(-50%, -50%); /* 'transform' é um forma de mudar características de uma caixa, nesse caso,  usando o 'translate', foi alterado o posicionamento no eixo x e e no eixo y */
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+            
+        </article>
+    </section>
+</body>
+</html>
