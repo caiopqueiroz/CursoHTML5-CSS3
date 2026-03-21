@@ -1,0 +1,83 @@
+@charset 'UTF-8';
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+:root {
+    --texto: 'Sriracha';
+    --titulo: 'Passion One';
+}
+
+* { /* '*' signica fazer uma alteração nas configurações gerais do projeto */
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    background-color: darkgray;
+    min-height: 100vh; /* Essa linha significa que a altura mínima do body será 100% da view port height, ou seja, o site cobrirá 100% da altura da janela onde o estiver aberto, independente do tamanho dela */
+}
+
+header a, footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline;
+}
+
+/**/
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    padding-top: 50px;
+    font-variant: small-caps;
+    font-family: var(--titulo);
+}
+
+header p {
+    padding-bottom: 50px;
+    font-family: var(--titulo);
+}
+
+/**/
+
+main section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2em;
+    font-family: var(--texto);
+}
+
+main section.normal {
+    background-color: white;
+    color: black;
+}
+
+main section.imagem { /* Seção do texto que ficará por cima das imagens (parte de fora, mais ampla) */
+    background-color: rgba(0, 0, 0, 0.591);
+    color: white;
+}
+
+main section.imagem p { /* Parágrafo do texto em si (parte de dentro) */
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 400px;
+}
+
+/**/
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}

@@ -92,3 +92,7 @@ position: absolute
 left: 50%
 top: 50%
 transform: translate(-50%, -50%) - Centralizar um conteúdo dentro de uma caixa
+
+text-transform - Alterar letras para maiúsculas, minúsculas, etc
+
+font-variant: small-caps - Adaptar letras maiúsculas
