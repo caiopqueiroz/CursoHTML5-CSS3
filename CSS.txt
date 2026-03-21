@@ -96,3 +96,5 @@ transform: translate(-50%, -50%) - Centralizar um conteúdo dentro de uma caixa
 text-transform - Alterar letras para maiúsculas, minúsculas, etc
 
 font-variant: small-caps - Adaptar letras maiúsculas
+
+font-size: 10vw - Adaptar fonte à largura da janela
